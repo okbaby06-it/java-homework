@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/collection-java/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/collection-java/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array-demo/array-demo.iml" filepath="$PROJECT_DIR$/array-demo/array-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array-demo/array_with_toString/array_with_toString.iml" filepath="$PROJECT_DIR$/array-demo/array_with_toString/array_with_toString.iml" />
       <module fileurl="file://$PROJECT_DIR$/src-bt/bt-thuc-hanh-1/bt-thuc-hanh-1.iml" filepath="$PROJECT_DIR$/src-bt/bt-thuc-hanh-1/bt-thuc-hanh-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/src-bt/bt-thuc-hanh-2/bt-thuc-hanh-2.iml" filepath="$PROJECT_DIR$/src-bt/bt-thuc-hanh-2/bt-thuc-hanh-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/src-bt/bt-thuc-hanh-2/bt1_nc_t9/bt1_nc_t9.iml" filepath="$PROJECT_DIR$/src-bt/bt-thuc-hanh-2/bt1_nc_t9/bt1_nc_t9.iml" />
@@ -12,11 +15,14 @@
       <module fileurl="file://$PROJECT_DIR$/src-bt/bt-thuc-hanh-2/bt4_t8/bt4_t8.iml" filepath="$PROJECT_DIR$/src-bt/bt-thuc-hanh-2/bt4_t8/bt4_t8.iml" />
       <module fileurl="file://$PROJECT_DIR$/src-bt/bt-thuc-hanh-2/bt5_t8/bt5_t8.iml" filepath="$PROJECT_DIR$/src-bt/bt-thuc-hanh-2/bt5_t8/bt5_t8.iml" />
       <module fileurl="file://$PROJECT_DIR$/src-bt/bt-thuc-hanh-2/bt6_t9/bt6_t9.iml" filepath="$PROJECT_DIR$/src-bt/bt-thuc-hanh-2/bt6_t9/bt6_t9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection-java/collection-java.iml" filepath="$PROJECT_DIR$/collection-java/collection-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-for-teacher/connectiondatabase/connectiondatabase.iml" filepath="$PROJECT_DIR$/demo-for-teacher/connectiondatabase/connectiondatabase.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-for-teacher/demo-for-teacher.iml" filepath="$PROJECT_DIR$/demo-for-teacher/demo-for-teacher.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-demo/oop-demo.iml" filepath="$PROJECT_DIR$/oop-demo/oop-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/src-bt/src-bt.iml" filepath="$PROJECT_DIR$/src-bt/src-bt.iml" />
       <module fileurl="file://$PROJECT_DIR$/test-java/test-java.iml" filepath="$PROJECT_DIR$/test-java/test-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-strings/test-strings.iml" filepath="$PROJECT_DIR$/test-strings/test-strings.iml" />
     </modules>
   </component>
 </project>
