@@ -58,7 +58,9 @@ public class SinhVien extends Generic{
     }
 
     public void setId(String id) {
-        if(id == null || id.trim().isEmpty())
+        id = id.strip().trim().toUpperCase();
+
+        if(id == null || id.isEmpty())
             throw new IllegalArgumentException("Lỗi! Mã Sinh Viên Không Được Để Trống");
 
         //kiểm tra xem ký tự đầu tiên có phải là chữ cái không
@@ -75,7 +77,7 @@ public class SinhVien extends Generic{
     }
 
     public void setName(String name) {
-        this.name = name;
+        this.name = name.trim();
     }
 
     public void setNgaySinh(Date ngaySinh) {
@@ -83,11 +85,11 @@ public class SinhVien extends Generic{
     }
 
     public void setGioiTinh(String gioiTinh) {
-        this.gioiTinh = gioiTinh;
+        this.gioiTinh = gioiTinh.trim();
     }
 
     public void setDiaChi(String diaChi) {
-        this.diaChi = diaChi;
+        this.diaChi = diaChi.trim();
     }
 
     public void setMalop(String malop) {
@@ -108,7 +110,7 @@ public class SinhVien extends Generic{
     }
 
     public void setPassword(String password) {
-        this.password = password;
+        this.password = password.trim();
     }
 
     //input
